@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# t.me/idfinderusernamebot
-=======
->>>>>>> origin/initialisation_of_project
+"""t.me/idfinderusernamebot"""
+
 import telebot
 
 bot = telebot.TeleBot('5311521567:AAG9VE60wdLO6RCkyrFJeQmzjf8nZJHrBmE')
